@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
+                "file": "Notion/Přednášky/Testování statistických hypotéz.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina"
+              "title": "Testování statistických hypotéz"
             },
             "group": "c9bdbd8897bfc25f"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
+                "file": "Notion/Přednášky/Testování statistických hypotéz.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina"
+              "title": "Testování statistických hypotéz"
             },
             "group": "c9bdbd8897bfc25f"
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
+                "file": "Notion/Přednášky/Testování statistických hypotéz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina"
+              "title": "Backlinks for Testování statistických hypotéz"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
+                "file": "Notion/Přednášky/Testování statistických hypotéz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina"
+              "title": "Outgoing links from Testování statistických hypotéz"
             }
           },
           {
@@ -161,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina.md"
+                "file": "Notion/Přednášky/Testování statistických hypotéz.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina"
+              "title": "Outline of Testování statistických hypotéz"
             }
           },
           {
@@ -197,14 +197,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "095ddcc3995f585b",
+  "active": "6d5c051bf162ae99",
   "lastOpenFiles": [
+    "7STAZ/Přednášky/Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
+    "Notion/Přednášky/Testování statistických hypotéz.md",
+    "Notion/Přednášky/06.11. Principy testování statistických hypotéz (opsaná pptx).md",
+    "7STAZ/Přednášky.md",
     "7STAZ/Přednášky/Charakteristika polohy a variability.md",
     "README.md",
     "7STAZ/Přednášky/Úvod do statistiky.md",
     "7APOS/Otázky/Logické funkce a logické obvody.md",
     "7APOS/Otázky.md",
-    "7STAZ/Přednášky.md",
     "Notion/Přednášky/25.9.2024 - Úvod do statistiky 1.md",
     "7STAZ/Přednášky",
     "Notion/Přednášky/Přednášky.md",
@@ -215,9 +218,6 @@
     "Vztah-diskretni-spojite.png",
     "Vztah-diskertni-diskretni.png",
     "Notion/Přednášky/20.11. Další metody induktivní statistiky/20.11. Další metody induktivní statistiky.md",
-    "Notion/Přednášky/Testování statistických hypotéz.md",
-    "Notion/Přednášky/06.11. Principy testování statistických hypotéz (opsaná pptx).md",
-    "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
     "Notion/Přednášky/20.11. Další metody induktivní statistiky",
     "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina",
     "Notion/Přednášky",

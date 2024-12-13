@@ -8,7 +8,7 @@
 
 [[Charakteristika polohy a variability]]
 
-[[23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina]]
+[[Vztah dvou veličin, pravděpodobnost, náhodná veličina]]
 
 [[06.11. Principy testování statistických hypotéz (opsaná pptx)]]
 

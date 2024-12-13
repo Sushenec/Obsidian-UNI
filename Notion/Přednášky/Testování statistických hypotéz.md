@@ -11,7 +11,7 @@
 
 ### Výzkumná hypotéza
 
-- Předpoklad o náhodné [[23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina]]
+- Předpoklad o náhodné [veličině](obsidian://open?vault=Obsidian-UNI&file=7STAZ%2FP%C5%99edn%C3%A1%C5%A1ky%2FVztah%20dvou%20veli%C4%8Din%2C%20pravd%C4%9Bpodobnost%2C%20n%C3%A1hodn%C3%A1%20veli%C4%8Dina)
 - např. hypotéza: databázový systém Oracle má menší střední hodnotu odezvy než databázový systém SQL (lidsky řečeno - v průměru je Oracle rychlejší než SQL)
 
 ### Nulová hypotéza $H_0$
@@ -57,12 +57,12 @@
 
 - Používá se pro testování že střední hodnota se rovná nějakému $\mu_0$ (např. průměrná výška se rovná 170 cm)
 
-$$\mathrm{Výpočet \ testového \ kritéria} \\  
-T=\frac{|\={x} - \mu_0|}{S}\cdot \sqrt{n} \\  
-\={x}\rarr průměr \\  
-\mu_0 \rarr hodnota \ se \ kterou \ porovnáváme \\  
-S \rarr směrodatná \ odchylka \\  
-n \rarr počet \ záznamů \ /\ měření$$
+$$\displaylines{\mathrm{Výpočet \ testového \ kritéria} \\  
+T=\frac{|\overline {x} - \mu_0|}{S}\cdot \sqrt{n} \\  
+\overline {x}\to průměr \\  
+\mu_0 \to hodnota \ se \ kterou \ porovnáváme \\  
+S \to směrodatná \ odchylka \\  
+n \to počet \ záznamů \ /\ měření}$$
 
 - Testové kritérium porovnáme s hodnotami v tabulce (kritická hodnota t) pro t-test  
     Pokud je testové kritérium větší než kritická hodnota → zamítá se nulová hypotéza  
@@ -72,15 +72,15 @@ n \rarr počet \ záznamů \ /\ měření$$
 
 - Používá se pro měření dvou stejných naměřených hodnot stejného výběru po nějakém procesu s výběrem (např. lidi a jejich váha před a po dietě)
 
-$$\mathrm{Výpočet \ testového \ kritéria} \\  
+$$\displaylines{\mathrm{Výpočet \ testového \ kritéria} \\  
 x_i=y_i-z_i \\  
-y_i\rarr např. \ hodnota\ před \ dietou \\  
-z_i\rarr např. \ hodnota \ po \ dietě  
+y_i\to např. \ hodnota\ před \ dietou \\  
+z_i\to např. \ hodnota \ po \ dietě  
 \\ \ \\  
-T=\frac{|\={x}|}{S}\cdot \sqrt{n} \\  
-\={x}\rarr průměr \ z\ x_i \\  
-S \rarr směrodatná \ odchylka \ x_i\\  
-n \rarr počet \ záznamů \ /\ měření$$
+T=\frac{|\overline {x}|}{S}\cdot \sqrt{n} \\  
+\overline {x}\to průměr \ z\ x_i \\  
+S \to směrodatná \ odchylka \ x_i\\  
+n \to počet \ záznamů \ /\ měření}$$
 
 ### Dvouvýběrový t-test
 

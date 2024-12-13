@@ -161,11 +161,11 @@ rozptyl(X) = 2,5-1,69 = 0,81 \\ \ \\
 
 - Chci zjistit jaká je pravděpodobnost, že když budu na ruletě vsázet, tak mi z 10 zatočení padne červená
 
-$$\mathrm{Výpočet \ binomického \ rozvoje} \\ \ \\  
+$$\displaylines{\mathrm{Výpočet \ binomického \ rozvoje} \\ \ \\  
 pravděpodobnost \ že \ po \ 1 \ zatočení \ padne \ červená \to p = 0,486 \\  
 celkový \ počet \ zatočení \to n = 10 \\  
 kolikrát \ chceme \ ať \ to \ padne \to k=5 \\ \ \\  
 \Big( {10 \atop 5}\Big)\cdot 0,486^5 \cdot (1-0,486)^{10-5} = \\ = 252 \cdot 0,027113235502176 \cdot 0,035876956577824 \\ = 0,245130573944562880660466946048 \\ \ \\  
-\mathrm{pravděpodobnost, \ že \ při \ 10 \ zatočení \ padne \ 5 \ krát \ červená, \ je \ 0,245130574}$$
+\mathrm{pravděpodobnost, \ že \ při \ 10 \ zatočení \ padne \ 5 \ krát \ červená, \ je \ 0,245130574}}$$
 
 ## Spojitá náhodná veličina
