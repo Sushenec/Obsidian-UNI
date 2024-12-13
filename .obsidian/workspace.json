@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Logické funkce a logické obvody"
+              "title": "README"
             }
           }
         ]
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logické funkce a logické obvody"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -147,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Logické funkce a logické obvody"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -174,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7APOS/Otázky/Logické funkce a logické obvody.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Logické funkce a logické obvody"
+              "title": "Outline of README"
             }
           },
           {
@@ -209,11 +209,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1b9a0718111cf6e7",
+  "active": "a6dbc32233190cd0",
   "lastOpenFiles": [
+    "7APOS/Otázky/Logické funkce a logické obvody.md",
     "7APOS/Otázky/Obrázky/Binarni-scitacka.png",
     "7APOS/Otázky/Obrázky/Pametovy-clen-D.png",
-    "7APOS/Otázky/Logické funkce a logické obvody.md",
     "7APOS/Otázky/Obrázky",
     "7APOS/Otázky.md",
     "Notion/Logické funkce a logické obvody.md",
