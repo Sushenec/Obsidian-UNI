@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3fc1c54a44d61061",
+        "id": "a3b136cddf14c913",
         "type": "tabs",
-        "dimension": 47.22814498933902,
         "children": [
           {
-            "id": "adf018f9ae9221ba",
+            "id": "e6366e04ced84824",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Logické funkce a logické obvody"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d89602d438c89b0c",
-        "type": "tabs",
-        "dimension": 52.771855010660985,
-        "children": [
-          {
-            "id": "a6dbc32233190cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -196,7 +170,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "adf018f9ae9221ba",
+  "active": "095ddcc3995f585b",
   "lastOpenFiles": [
     "7APOS/Otázky/Obrázky/Pametovy-clen-D.png",
     "README.md",
