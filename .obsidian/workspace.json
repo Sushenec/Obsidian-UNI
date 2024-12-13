@@ -11,11 +11,37 @@
             "id": "fd076b03d2afe818",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
+              "type": "markdown",
+              "state": {
+                "file": "7STAZ/Přednášky/Charakteristika polohy a variability.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Charakteristika polohy a variability"
+            },
+            "group": "e1e8112b8c301bde"
+          }
+        ]
+      },
+      {
+        "id": "cb82a7c0aace98f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2daa26520e02a1eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7STAZ/Přednášky/Charakteristika polohy a variability.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Charakteristika polohy a variability"
+            },
+            "group": "e1e8112b8c301bde"
           }
         ]
       }
@@ -89,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7STAZ/Přednášky/Charakteristika polohy a variability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Charakteristika polohy a variability"
             }
           },
           {
@@ -107,11 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7STAZ/Přednášky/Charakteristika polohy a variability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Charakteristika polohy a variability"
             }
           },
           {
@@ -132,9 +160,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "7STAZ/Přednášky/Charakteristika polohy a variability.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Charakteristika polohy a variability"
             }
           },
           {
@@ -152,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,20 +197,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1b9a0718111cf6e7",
+  "active": "2daa26520e02a1eb",
   "lastOpenFiles": [
+    "7STAZ/Přednášky 7STAZ.md",
+    "7APOS/Okruhy 7APOS.md",
+    "README.md",
     "7STAZ/Přednášky/Obrázky/Vztah-spojite-spojite.png",
     "7STAZ/Přednášky/Obrázky",
-    "7STAZ/Přednášky 7STAZ.md",
     "7STAZ/Přednášky/Další metody induktivní statistiky.md",
     "7STAZ/Přednášky/Testování statistických hypotéz.md",
     "7STAZ/Přednášky/Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
     "Notion/Přednášky/06.11. Principy testování statistických hypotéz (opsaná pptx).md",
     "7STAZ/Přednášky/Charakteristika polohy a variability.md",
-    "README.md",
     "7STAZ/Přednášky/Úvod do statistiky.md",
     "7APOS/Otázky/Logické funkce a logické obvody.md",
-    "7APOS/Okruhy 7APOS.md",
     "Notion/Přednášky/25.9.2024 - Úvod do statistiky 1.md",
     "7STAZ/Přednášky",
     "Notion/Přednášky/Přednášky.md",
