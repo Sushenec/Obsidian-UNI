@@ -6,6 +6,7 @@
       {
         "id": "3fc1c54a44d61061",
         "type": "tabs",
+        "dimension": 47.22814498933902,
         "children": [
           {
             "id": "10df7985d6d7c0c3",
@@ -26,6 +27,7 @@
       {
         "id": "d89602d438c89b0c",
         "type": "tabs",
+        "dimension": 52.771855010660985,
         "children": [
           {
             "id": "a6dbc32233190cd0",
@@ -176,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,17 +197,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "10df7985d6d7c0c3",
+  "active": "095ddcc3995f585b",
   "lastOpenFiles": [
     "Notion/Logické funkce a logické obvody.md",
     "7APOS/Otázky/Logické funkce a logické obvody.md",
     "image 6.png",
-    "image 5.png",
-    "image 4.png",
-    "image 3.png",
-    "image 2.png",
-    "image 1.png",
-    "image.png",
+    "Logicky-obvod-RS.png",
+    "Binarni-scitacka.png",
+    "Logicky-komparator.png",
+    "Nabeh-Dobeh-impulsu.png",
+    "Hradla-IEC.png",
+    "Hradla-ANSI.png",
     "Notion",
     "7APOS/Otázky.md",
     "image 14.png",

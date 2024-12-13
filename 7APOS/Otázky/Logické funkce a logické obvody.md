@@ -6,19 +6,12 @@ Logické funkce a logické obvody pracují s binárními/logickými hodnotami (0
 
 Tabulka ukazuje všechny možné funkce pro 2 vstupní hodnoty (A, B)
 
-|A|B|\||f0|f1|f2|f3|f4|f5|f6|f7|f8|f9|f10|f11|f12|f13|f14|f15|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|0|0|\||0|0|0|0|0|0|0|0|1|1|1|1|1|1|1|1|
-|0|1|\||0|0|0|0|1|1|1|1|0|0|0|0|1|1|1|1|
-|1|0|\||0|0|1|1|0|0|1|1|0|0|1|1|0|0|1|1|
-|1|1|\||0|1|0|1|0|1|0|1|0|1|0|1|0|1|0|1|
-
-| A   | B   |     |     | |
-| --- | --- | --- | --- | --- |
-|     |     |     |     | |
-|     |     |     |     | |
-|     |     |     |     | |
-|     |     |     |     | |
+| A   | B   |  $\mathrm{f_0}$   | $\mathrm{f_1}$   |$\mathrm{f_2}$   |$\mathrm{f_3}$   |$\mathrm{f_4}$   |$\mathrm{f_5}$   |$\mathrm{f_5}$   |$\mathrm{f_6}$|$\mathrm{f_7}$   |$\mathrm{f_8}$   |$\mathrm{f_9}$   |$\mathrm{f_{10}}$   |$\mathrm{f_{12}}$   |$\mathrm{f_{13}}$   |$\mathrm{f_{14}}$   |$\mathrm{f_{15}}$   |
+| --- | --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+|  0  |  0  |   0  |   0  |0 |0 |0 |0 |0 |0|1 |1|1 |1|1 |1|1 |1 |
+|  0  |  1  |   0  |   0  |0 |0 |1 |1 |1 |1|0 |0|0 |0|1 |1|1 |1 |
+|  1  |  0  |   0  |   0  |1 |1 |0 |0 |1 |1|0 |0|1 |1|0 |0|1 |1 |
+|  1  |  1  |   0  |   1  |0 |1 |0 |1 |0 |1|0 |1|0 |1|0 |1|0 |1 |
 
 ## Funkce jedné proměnné
 
@@ -63,7 +56,7 @@ Tabulka ukazuje všechny možné funkce pro 2 vstupní hodnoty (A, B)
 
 - Booleova algebra je matika s hodnotami 1 a 0
 
-### **Zákon komutativity**
+### Zákon komutativity
 
 - $\mathrm A\cdot B=B\cdot A \\ \mathrm A+ B=B+ A$
 
@@ -115,15 +108,15 @@ Tabulka ukazuje všechny možné funkce pro 2 vstupní hodnoty (A, B)
     $\mathrm {0 + 0 = 0 \ (přenos \ do dalšího\ řádu\ 0)}\\ \mathrm {0 + 1 = 1 \ (přenos \ do dalšího\ řádu\ 0)}\\ \mathrm {1 + 0 = 1 \ (přenos \ do dalšího\ řádu\ 0)}\\ \mathrm {1 + 1 = 0 \ (přenos \ do dalšího\ řádu\ 1)}$
 - Toto chování můžeme vytvořit pomocí funkcí AND a XOR
 
-|A|B|\||AND|XOR|
-|---|---|---|---|---|
-|0|0|\||0|0|
-|0|1|\||0|1|
-|1|0|\||0|1|
-|1|1|\||1|0|
+|A|B|AND|XOR|
+|---|---|---|---|
+|0|0|0|0|
+|0|1|0|1|
+|1|0|0|1|
+|1|1|1|0|
 
 - Funkce AND se chová jako přenos do dalšího řádu
-- Funkce XOR se chová jako součet v danném řádu
+- Funkce XOR se chová jako součet v daném řádu
 
 ## Grafické značení
 
@@ -131,13 +124,13 @@ Tabulka ukazuje všechny možné funkce pro 2 vstupní hodnoty (A, B)
 - Tyto grafické značky se nazývají jako hradla (logic gates)
 - Pomocí hradel se zakreslují logické obvody
 
-![[image.png]]
+![[Hradla-ANSI.png]]
 
 Grafické značení logických funkcí podle normy ANSI
 
   
 
-![[image 1.png]]
+![[Hradla-IEC.png]]
 
 Grafické znčení logických funkcí podle normy IEC
 
@@ -158,22 +151,22 @@ Grafické znčení logických funkcí podle normy IEC
 ### Sekvenční
 
 - Výstup je určen hodnotami na vstupech, ale i vnitřním stavem (pamětí) obvodu
-- Sekvenční obvody se mohou dělit podle řízení
-    - **Asynchronní (neřízené)**
+-  Sekvenční obvody se mohou dělit podle řízení
+    - ##### Asynchronní (neřízené)
         - Změna vstupní hodnoty se hned promítne do výstupu nebo paměti sekvenčního obvodu
-    - **Synchronní (řízené)**
+    - #####  Synchronní (řízené)
         - Obvod je řízený synchronizačním signálem
         - Změna vstupní hodnoty, výstupu nebo paměti, se promítne až po příchodu synchronizačního signálu
 - Dále můžeme dělit podle stability
-    - **Astabilní**
+    - #####  Astabilní
         - Obvod nemá žádný stabilní stav
         - Neustále oscilují mezi stavy 1 a 0
         - Využívají se např. jako generátor impulsů
-    - **Monostabilní**
+    - #####  Monostabilní
         - Má jeden stabilní stav
         - Pokud se obvod dostane do nestabilního stavu, po chvíli vrátí se do stabilního stavu
         - Využívají se k proudložení signálu
-    - **Bistabilní**
+    - #####  Bistabilní
         - Má dva stabilní stavy
         - Obvod se nachází ve stabilním stavu dokud není přepnutý vnějším impulsem
         - Využívají se jako paměťové obvody
@@ -189,9 +182,8 @@ Grafické znčení logických funkcí podle normy IEC
 - Náběh a doběh impulsů
     - Ilustrace náběhu (červená) a doběhu (modrá)
 
-![[image 2.png]]
-
-Osa x je čas, osa y je hodnota signálu
+		![[Nabeh-Dobeh-impulsu.png]]
+		Osa x je čas, osa y je hodnota signálu
 
 - Odolnost proti rušení
 - Přípustný rozptyl napájecího napětí
@@ -204,16 +196,15 @@ Osa x je čas, osa y je hodnota signálu
 - Porovnáva 2 vstupní hodnoty
 - Vždy jen jeden ze tří výstupů má hodnotu 1
 
-![[image 3.png]]
-
-Logický komparátor
+	![[Logicky-komparator.png]]
+ Logický komparátor
 
 ### Binární sčítačka
 
 - Sčítá 2 jednobitová čísla
 - Pokud chceme sčítat vícebitová čísla, můžeme zapojit více sčítaček do sebe
 
-![[image 4.png]]
+	![[Binarni-scitacka.png]]
 
 - A1 B1 jsou vstupy v řádu ve kterém sčítám
 - R0 je hodnota přenášena z minulého řádu
@@ -227,7 +218,7 @@ Logický komparátor
 - Je to bistabilní asynchronní klopný obvod
 - Uchovává informaci ikdyž na vstupu už není
 
-![[image 5.png]]
+	![[Logicky-obvod-RS.png]]
 
 - S (Set) je vstup který nastavuje hodnotu, kterou si má obvod pamatovat
 - R (Reset) je vstup který resetuje vnitřní paměť obvodu
@@ -250,7 +241,7 @@ Logický komparátor
 - Je to bistabilní synchronní obvod
 - Používá se jako paměťová jednotka
 
-![[image 6.png]]
+	![[image 6.png]]
 
 - D (Data) je vstup který určuje jaká informace se má uchovat
 - C (Clock) je vstup řídícího signálu, který ukazuje zda se má informace uchovat

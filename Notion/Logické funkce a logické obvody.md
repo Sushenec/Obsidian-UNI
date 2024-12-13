@@ -124,13 +124,13 @@ Tabulka ukazuje všechny možné funkce pro 2 vstupní hodnoty (A, B)
 - Tyto grafické značky se nazývají jako hradla (logic gates)
 - Pomocí hradel se zakreslují logické obvody
 
-![[image.png]]
+![[Hradla-ANSI.png]]
 
 Grafické značení logických funkcí podle normy ANSI
 
   
 
-![[image 1.png]]
+![[Hradla-IEC.png]]
 
 Grafické znčení logických funkcí podle normy IEC
 
@@ -182,7 +182,7 @@ Grafické znčení logických funkcí podle normy IEC
 - Náběh a doběh impulsů
     - Ilustrace náběhu (červená) a doběhu (modrá)
 
-![[image 2.png]]
+![[Nabeh-Dobeh-impulsu.png]]
 
 Osa x je čas, osa y je hodnota signálu
 
@@ -197,7 +197,7 @@ Osa x je čas, osa y je hodnota signálu
 - Porovnáva 2 vstupní hodnoty
 - Vždy jen jeden ze tří výstupů má hodnotu 1
 
-![[image 3.png]]
+![[Logicky-komparator.png]]
 
 Logický komparátor
 
@@ -206,7 +206,7 @@ Logický komparátor
 - Sčítá 2 jednobitová čísla
 - Pokud chceme sčítat vícebitová čísla, můžeme zapojit více sčítaček do sebe
 
-![[image 4.png]]
+![[Binarni-scitacka.png]]
 
 - A1 B1 jsou vstupy v řádu ve kterém sčítám
 - R0 je hodnota přenášena z minulého řádu
@@ -220,7 +220,7 @@ Logický komparátor
 - Je to bistabilní asynchronní klopný obvod
 - Uchovává informaci ikdyž na vstupu už není
 
-![[image 5.png]]
+![[Logicky-obvod-RS.png]]
 
 - S (Set) je vstup který nastavuje hodnotu, kterou si má obvod pamatovat
 - R (Reset) je vstup který resetuje vnitřní paměť obvodu
