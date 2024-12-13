@@ -132,7 +132,7 @@ Grafické značení logických funkcí podle normy ANSI
 
 ![[Hradla-IEC.png]]
 
-Grafické znčení logických funkcí podle normy IEC
+Grafické značení logických funkcí podle normy IEC
 
   
 

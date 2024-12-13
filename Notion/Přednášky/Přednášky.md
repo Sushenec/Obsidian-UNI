@@ -4,7 +4,7 @@
 
 > [Scripta P. Bujok - Data analysis](https://web.osu.cz/~Bujok/files/andat.pdf)
 
-[[25.9.2024 - Úvod do statistiky]]
+[[Úvod do statistiky]]
 
 [[9.10.2024 - Charakteristika polohy a variability]]
 

@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
+                "file": "7STAZ/Přednášky/Úvod do statistiky.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Logické funkce a logické obvody"
+              "title": "Úvod do statistiky"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9c20d02991100fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a7d292a9c08e7d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7STAZ/Přednášky.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Přednášky"
             }
           }
         ]
@@ -93,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
+                "file": "7STAZ/Přednášky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logické funkce a logické obvody"
+              "title": "Backlinks for Přednášky"
             }
           },
           {
@@ -112,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
+                "file": "7STAZ/Přednášky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Logické funkce a logické obvody"
+              "title": "Outgoing links from Přednášky"
             }
           },
           {
@@ -139,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7APOS/Otázky/Logické funkce a logické obvody.md"
+                "file": "7STAZ/Přednášky.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Logické funkce a logické obvody"
+              "title": "Outline of Přednášky"
             }
           },
           {
@@ -160,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,9 +195,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e6366e04ced84824",
+  "active": "7a7d292a9c08e7d8",
   "lastOpenFiles": [
-    "Notion/Přednášky/25.9.2024 - Úvod do statistiky.md",
+    "7STAZ/Přednášky/Úvod do statistiky.md",
+    "Notion/Přednášky/25.9.2024 - Úvod do statistiky 1.md",
+    "7STAZ/Přednášky.md",
+    "7STAZ/Přednášky",
+    "Notion/Přednášky/Přednášky.md",
+    "7APOS/Otázky.md",
     "7APOS/Otázky/Logické funkce a logické obvody.md",
     "7STAZ",
     "image 1 2.png",
@@ -189,7 +215,6 @@
     "Notion/Přednášky/06.11. Principy testování statistických hypotéz (opsaná pptx).md",
     "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
     "Notion/Přednášky/9.10.2024 - Charakteristika polohy a variability.md",
-    "Notion/Přednášky/Přednášky.md",
     "Notion/Přednášky/20.11. Další metody induktivní statistiky",
     "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina",
     "Notion/Přednášky",
@@ -198,7 +223,6 @@
     "README.md",
     "7APOS/Otázky/Obrázky/Binarni-scitacka.png",
     "7APOS/Otázky/Obrázky",
-    "7APOS/Otázky.md",
     "Notion/Logické funkce a logické obvody.md",
     "7APOS/Otázky/Obrázky/Logicky-obvod-RS.png",
     "7APOS/Otázky/Obrázky/Logicky-komparator.png",
@@ -218,8 +242,6 @@
     "Notion/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
     "Notion/9.10.2024 - Charakteristika polohy a variability.md",
     "Notion/25.9.2024 - Úvod do statistiky.md",
-    "Notion/Programovací jazyk Java.md",
-    "Notion/23.9.2024 2.md",
-    "IMG_1398.heic"
+    "Notion/Programovací jazyk Java.md"
   ]
 }
