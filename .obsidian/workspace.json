@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c20d02991100fe7",
+        "id": "b38fc05aaa598419",
         "type": "tabs",
         "children": [
           {
-            "id": "7a7d292a9c08e7d8",
+            "id": "fd076b03d2afe818",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,9 +166,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7a7d292a9c08e7d8",
+  "active": "1b9a0718111cf6e7",
   "lastOpenFiles": [
-    "7STAZ/Přednášky.md",
+    "7STAZ/Přednášky/Obrázky/Vztah-spojite-spojite.png",
+    "7STAZ/Přednášky/Obrázky",
+    "7STAZ/Přednášky 7STAZ.md",
     "7STAZ/Přednášky/Další metody induktivní statistiky.md",
     "7STAZ/Přednášky/Testování statistických hypotéz.md",
     "7STAZ/Přednášky/Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
@@ -177,16 +179,15 @@
     "README.md",
     "7STAZ/Přednášky/Úvod do statistiky.md",
     "7APOS/Otázky/Logické funkce a logické obvody.md",
-    "7APOS/Otázky.md",
+    "7APOS/Okruhy 7APOS.md",
     "Notion/Přednášky/25.9.2024 - Úvod do statistiky 1.md",
     "7STAZ/Přednášky",
     "Notion/Přednášky/Přednášky.md",
     "7STAZ",
-    "Vystup-ANOVA-excel.png",
-    "Vystup-ANOVA.png",
-    "Vztah-spojite-spojite.png",
-    "Vztah-diskretni-spojite.png",
-    "Vztah-diskertni-diskretni.png",
+    "7STAZ/Přednášky/Obrázky/Vystup-ANOVA-excel.png",
+    "7STAZ/Přednášky/Obrázky/Vystup-ANOVA.png",
+    "7STAZ/Přednášky/Obrázky/Vztah-diskretni-spojite.png",
+    "7STAZ/Přednášky/Obrázky/Vztah-diskertni-diskretni.png",
     "Notion/Přednášky/20.11. Další metody induktivní statistiky",
     "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina",
     "Notion/Přednášky",
@@ -206,13 +207,11 @@
     "Notion/(ALG1) Základy algoritmizace.md",
     "APZOS_CPU.pdf",
     "APZOS_07.pdf",
-    "APZOS_02.pdf",
     "Notion/20.11. Další metody induktivní statistiky.md",
     "Notion/Testování statistických hypotéz.md",
     "Notion/06.11. Principy testování statistických hypotéz (opsaná pptx).md",
     "Notion/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
     "Notion/9.10.2024 - Charakteristika polohy a variability.md",
-    "Notion/25.9.2024 - Úvod do statistiky.md",
-    "Notion/Programovací jazyk Java.md"
+    "Notion/25.9.2024 - Úvod do statistiky.md"
   ]
 }
