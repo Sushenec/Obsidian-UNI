@@ -159,7 +159,7 @@ n \to počet \ všech \ hodnot}$$
 
 ## Směrodatná odchylka (standard deviation) $s$ nebo $\sigma$
 
-- Stejně jako [[Charakteristika polohy a variability]], je to průměrná “vzdálenost” hodnot od průměru, ale na rozdíl od rozptylu je ve stejných jednotkách jako hodnoty
+- Stejně jako rozptyl, je to průměrná “vzdálenost” hodnot od průměru, ale na rozdíl od rozptylu je ve stejných jednotkách jako hodnoty
 - Stejně jako u rozptylu, $\sigma$ se používá jen, když máme naměřenou celou populaci a $s$ se používá, když máme nějaký výběr z populace
 
 $$\displaylines{s=\sqrt{s^2} \\  
