@@ -11,10 +11,14 @@
             "id": "e6366e04ced84824",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Logické funkce a logické obvody"
             }
           }
         ]
@@ -152,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,8 +174,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "095ddcc3995f585b",
+  "active": "e6366e04ced84824",
   "lastOpenFiles": [
+    "Notion/Přednášky/25.9.2024 - Úvod do statistiky.md",
+    "7APOS/Otázky/Logické funkce a logické obvody.md",
     "7STAZ",
     "image 1 2.png",
     "image 3.png",
@@ -183,7 +189,6 @@
     "Notion/Přednášky/06.11. Principy testování statistických hypotéz (opsaná pptx).md",
     "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
     "Notion/Přednášky/9.10.2024 - Charakteristika polohy a variability.md",
-    "Notion/Přednášky/25.9.2024 - Úvod do statistiky.md",
     "Notion/Přednášky/Přednášky.md",
     "Notion/Přednášky/20.11. Další metody induktivní statistiky",
     "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina",
@@ -191,7 +196,6 @@
     "Notion",
     "7APOS/Otázky/Obrázky/Pametovy-clen-D.png",
     "README.md",
-    "7APOS/Otázky/Logické funkce a logické obvody.md",
     "7APOS/Otázky/Obrázky/Binarni-scitacka.png",
     "7APOS/Otázky/Obrázky",
     "7APOS/Otázky.md",
@@ -216,7 +220,6 @@
     "Notion/25.9.2024 - Úvod do statistiky.md",
     "Notion/Programovací jazyk Java.md",
     "Notion/23.9.2024 2.md",
-    "IMG_1398.heic",
-    "IMG_1396.heic"
+    "IMG_1398.heic"
   ]
 }
