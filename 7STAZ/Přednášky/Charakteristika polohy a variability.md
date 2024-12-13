@@ -83,20 +83,20 @@ x_{0,25} \ kvantil \ se \ nachází \ na \ pozici \ 4$$
 - $1,2,3,\textcolor{darkcyan}{3},4,6,7$ Medián je 3
 - Pokud je počet hodnot párný, tak bereme průměr dvou prostředních hodnot
 - $1,2,2,\textcolor{darkcyan}2,\textcolor{darkcyan}3,4,5,7$ Medián je 2,5 ($\frac{2+3}{2}$)
-- Alternativně jde, jako všechny kvantily, zjistit pomocí [[9.10.2024 - Charakteristika polohy a variability]]výše
+- Alternativně jde, jako všechny kvantily, zjistit pomocí [[Charakteristika polohy a variability]]výše
 
 ### Horní kvartil $x_{0,25}$
 
 - 25% kvantil - hodnota větší nebo rovna 25% hodnot a menší než nebo rovna 75% hodnot
 - Zjišťování horního kvartilu - v seřazených hodnotách najdeme medián. Najdeme prvek hodnotu, která je uprostřed první poloviny.
-- Nebo jde taky zjistil pomocí [[9.10.2024 - Charakteristika polohy a variability]]
+- Nebo jde taky zjistil pomocí [[Charakteristika polohy a variability]]
 - $1,2,\textcolor{darkcyan}2,\textcolor{darkcyan}2,3,4,5,7$ Horní kvartil je 2
 
 ### Dolní kvartil $x_{0,75}$
 
 - 75% kvantil - hodnota větší nebo rovna 75% hodnot a menší nebo rovna 25% hodnot
 - Je to stejné jako horní kvantil jenom jsou tam jiné čísla
-- [[9.10.2024 - Charakteristika polohy a variability]]
+- [[Charakteristika polohy a variability]]
 - $1,2,2,2,3,\textcolor{darkcyan}4,\textcolor{darkcyan}5,7$ Dolní kvartil je 4,5 $(\frac{4+5}{2})$
 
 ## Variabilita
@@ -157,7 +157,7 @@ n \rarr počet \ všech \ hodnot$$
 
 ## Směrodatná odchylka (standard deviation) $s$ nebo $\sigma$
 
-- Stejně jako [[9.10.2024 - Charakteristika polohy a variability]], je to průměrná “vzdálenost” hodnot od průměru, ale na rozdíl od rozptylu je ve stejných jednotkách jako hodnoty
+- Stejně jako [[Charakteristika polohy a variability]], je to průměrná “vzdálenost” hodnot od průměru, ale na rozdíl od rozptylu je ve stejných jednotkách jako hodnoty
 - Stejně jako u rozptylu, $\sigma$ se používá jen, když máme naměřenou celou populaci a $s$ se používá, když máme nějaký výběr z populace
 
 $$s=\sqrt{s^2} \\  

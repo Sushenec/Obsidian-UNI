@@ -6,7 +6,7 @@
 
 [[Úvod do statistiky]]
 
-[[9.10.2024 - Charakteristika polohy a variability]]
+[[Charakteristika polohy a variability]]
 
 [[23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina]]
 

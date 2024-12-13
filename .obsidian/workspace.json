@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Přednášky/9.10.2024 - Charakteristika polohy a variability.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "9.10.2024 - Charakteristika polohy a variability"
+              "title": "README"
             },
             "group": "c9bdbd8897bfc25f"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Přednášky/9.10.2024 - Charakteristika polohy a variability.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "9.10.2024 - Charakteristika polohy a variability"
+              "title": "README"
             },
             "group": "c9bdbd8897bfc25f"
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Přednášky/9.10.2024 - Charakteristika polohy a variability.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9.10.2024 - Charakteristika polohy a variability"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Přednášky/9.10.2024 - Charakteristika polohy a variability.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9.10.2024 - Charakteristika polohy a variability"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -161,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Přednášky/9.10.2024 - Charakteristika polohy a variability.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 9.10.2024 - Charakteristika polohy a variability"
+              "title": "Outline of README"
             }
           },
           {
@@ -200,12 +200,14 @@
   "active": "6d5c051bf162ae99",
   "lastOpenFiles": [
     "7STAZ/Přednášky/Úvod do statistiky.md",
+    "7APOS/Otázky/Logické funkce a logické obvody.md",
+    "7APOS/Otázky.md",
+    "README.md",
+    "7STAZ/Přednášky/Charakteristika polohy a variability.md",
     "7STAZ/Přednášky.md",
     "Notion/Přednášky/25.9.2024 - Úvod do statistiky 1.md",
     "7STAZ/Přednášky",
     "Notion/Přednášky/Přednášky.md",
-    "7APOS/Otázky.md",
-    "7APOS/Otázky/Logické funkce a logické obvody.md",
     "7STAZ",
     "image 1 2.png",
     "image 3.png",
@@ -216,13 +218,11 @@
     "Notion/Přednášky/Testování statistických hypotéz.md",
     "Notion/Přednášky/06.11. Principy testování statistických hypotéz (opsaná pptx).md",
     "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
-    "Notion/Přednášky/9.10.2024 - Charakteristika polohy a variability.md",
     "Notion/Přednášky/20.11. Další metody induktivní statistiky",
     "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina",
     "Notion/Přednášky",
     "Notion",
     "7APOS/Otázky/Obrázky/Pametovy-clen-D.png",
-    "README.md",
     "7APOS/Otázky/Obrázky/Binarni-scitacka.png",
     "7APOS/Otázky/Obrázky",
     "Notion/Logické funkce a logické obvody.md",
