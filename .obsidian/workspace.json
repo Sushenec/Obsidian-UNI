@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "7STAZ/Přednášky/Charakteristika polohy a variability.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Charakteristika polohy a variability"
             },
             "group": "c9bdbd8897bfc25f"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "7STAZ/Přednášky/Charakteristika polohy a variability.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Charakteristika polohy a variability"
             },
             "group": "c9bdbd8897bfc25f"
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "7STAZ/Přednášky/Charakteristika polohy a variability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Charakteristika polohy a variability"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "7STAZ/Přednášky/Charakteristika polohy a variability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Charakteristika polohy a variability"
             }
           },
           {
@@ -161,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "7STAZ/Přednášky/Charakteristika polohy a variability.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Charakteristika polohy a variability"
             }
           },
           {
@@ -197,12 +197,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6d5c051bf162ae99",
+  "active": "7a7d292a9c08e7d8",
   "lastOpenFiles": [
+    "README.md",
     "7STAZ/Přednášky/Úvod do statistiky.md",
     "7APOS/Otázky/Logické funkce a logické obvody.md",
     "7APOS/Otázky.md",
-    "README.md",
     "7STAZ/Přednášky/Charakteristika polohy a variability.md",
     "7STAZ/Přednášky.md",
     "Notion/Přednášky/25.9.2024 - Úvod do statistiky 1.md",

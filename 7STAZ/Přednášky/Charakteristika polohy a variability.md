@@ -25,10 +25,10 @@
 - Je ovlivněno extrémními hodnotami (moc malé nebo moc velké hodnoty)
 - Součet všech hodnot podělených celkovým počtem hodnot
 
-$$\frac{1}{n}\sum_{i=1}^{n} x_i \\ \ \\ nebo \\ \ \\  
+$$\displayl \frac{1}{n}\sum_{i=1}^{n} x_i \\ \ \\ nebo \\ \ \\  
 \sum_{i=1}^{n} \frac{x_i}{n} \\ \ \\  
-n \ \rarr \ celkový \ počet \ prvků \\  
-x_i \ \rarr \ hodnota \ na \ pozici \ i$$
+n \ \to \ celkový \ počet \ prvků \\  
+x_i \ \to \ hodnota \ na \ pozici \ i$$
 
 ## Uřezaný průměr
 
@@ -50,8 +50,8 @@ x_i \ \rarr \ hodnota \ na \ pozici \ i$$
 $$\sqrt[n]{ \ \prod_{i=1}^{n} x_i} \\ \ \\  
 nebo \\ \ \\  
 \bigg( \prod_{i=1}^{n} x_i\bigg)^{\frac{1}{n}} \\ \ \\  
-n \ \rarr \ celkový \ počet \ prvků \\  
-x_i \ \rarr \ hodnota \ na \ pozici \ i$$
+n \ \to \ celkový \ počet \ prvků \\  
+x_i \ \to \ hodnota \ na \ pozici \ i$$
 
 ## Kvantily
 
@@ -63,11 +63,11 @@ x_i \ \rarr \ hodnota \ na \ pozici \ i$$
 
 $$výpočet \ indexu \ na \ kterém \ se \ nachází \ kvantil \\  
 z = n \cdot p \ + (1-p) \\ \ \\  
-z \ \rarr \ index \ kvantilu \ v \ seřazeném \ seznamu \\  
-n \ \rarr \ celkový \ počet \ prvků \\  
-p \ \rarr \ procento \ kvantilu$$$$Příklad \\  
+z \ \to \ index \ kvantilu \ v \ seřazeném \ seznamu \\  
+n \ \to \ celkový \ počet \ prvků \\  
+p \ \to \ procento \ kvantilu$$$$Příklad \\  
 Chceme \ zjistil \ na \ jaké \ pozici,\textcolor{firebrick}{ \ v \ seřazených \ datech}, se \ nachází \ x_{0,25} \ kvantil \\  
-Máme \ 13 \ naměřených \ hodnot \ \rarr n = 13 \\ \ \\  
+Máme \ 13 \ naměřených \ hodnot \ \to n = 13 \\ \ \\  
 z = 13 \ \cdot \ 0,25 \ +(1 - 0,25) \\  
 z = 4 \\ \ \\  
 x_{0,25} \ kvantil \ se \ nachází \ na \ pozici \ 4$$
@@ -145,15 +145,15 @@ $$s^2=\sum_{i=1}^n \frac{(x_i - \overline x)^2}{n-1}
 \\ \ \\ nebo \\ \ \\  
 s^2=\frac{1}{n-1} \cdot\sum_{i=1}^n (x_i - \overline x)^2  
 \\ \ \\  
-x_i \rarr hodnota \ na \ pozici \ i \\  
-\=x \rarr průměr \ hodnot \\  
-n \rarr počet \ všech \ hodnot$$$$\sigma^2=\sum_{i=1}^n \frac{(x_i - \overline x)^2}{n}  
+x_i \to hodnota \ na \ pozici \ i \\  
+\=x \to průměr \ hodnot \\  
+n \to počet \ všech \ hodnot$$$$\sigma^2=\sum_{i=1}^n \frac{(x_i - \overline x)^2}{n}  
 \\ \ \\ nebo \\ \ \\  
 \sigma^2=\frac{1}{n} \cdot\sum_{i=1}^n (x_i - \=x)^2  
 \\ \ \\  
-x_i \rarr hodnota \ na \ pozici \ i \\  
-\=x \rarr průměr \ hodnot \\  
-n \rarr počet \ všech \ hodnot$$
+x_i \to hodnota \ na \ pozici \ i \\  
+\=x \to průměr \ hodnot \\  
+n \to počet \ všech \ hodnot$$
 
 ## Směrodatná odchylka (standard deviation) $s$ nebo $\sigma$
 
@@ -162,8 +162,8 @@ n \rarr počet \ všech \ hodnot$$
 
 $$s=\sqrt{s^2} \\  
 \sigma=\sqrt{\sigma^2} \\ \ \\  
-s^2 \rarr rozptyl \ pro \ výběr \ z \ populace \\  
-\sigma^2 \rarr rozptyl \ pro \ celou \ populaci$$
+s^2 \to rozptyl \ pro \ výběr \ z \ populace \\  
+\sigma^2 \to rozptyl \ pro \ celou \ populaci$$
 
 ## Přesnost měření
 
