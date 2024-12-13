@@ -1,0 +1,5 @@
+- Není povinná docházka na cvika i přednášky
+- Možnost více pokusu při opravákách
+- Je to kamoš takže tykání a ne vykání
+- Každé cvika jsou nahrávané
+- Omluvenky atd psát na teamsy nebo mail
