@@ -9,18 +9,6 @@
         "dimension": 47.22814498933902,
         "children": [
           {
-            "id": "10df7985d6d7c0c3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "7APOS/Otázky/Obrázky/Pametovy-clen-D.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pametovy-clen-D"
-            }
-          },
-          {
             "id": "adf018f9ae9221ba",
             "type": "leaf",
             "state": {
@@ -34,8 +22,7 @@
               "title": "Logické funkce a logické obvody"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d89602d438c89b0c",
@@ -128,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Logické funkce a logické obvody"
             }
           },
           {
@@ -147,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Logické funkce a logické obvody"
             }
           },
           {
@@ -174,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "7APOS/Otázky/Logické funkce a logické obvody.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Logické funkce a logické obvody"
             }
           },
           {
@@ -209,11 +196,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a6dbc32233190cd0",
+  "active": "adf018f9ae9221ba",
   "lastOpenFiles": [
+    "7APOS/Otázky/Obrázky/Pametovy-clen-D.png",
+    "README.md",
     "7APOS/Otázky/Logické funkce a logické obvody.md",
     "7APOS/Otázky/Obrázky/Binarni-scitacka.png",
-    "7APOS/Otázky/Obrázky/Pametovy-clen-D.png",
     "7APOS/Otázky/Obrázky",
     "7APOS/Otázky.md",
     "Notion/Logické funkce a logické obvody.md",
@@ -232,7 +220,6 @@
     "Notion/1. Ročník.md",
     "Notion/(Bc.) Softwarové systémy.md",
     "Notion/(ALG1) Základy algoritmizace.md",
-    "README.md",
     "APZOS_CPU.pdf",
     "APZOS_07.pdf",
     "APZOS_02.pdf",
