@@ -243,7 +243,7 @@ Logický komparátor
 - Je to bistabilní synchronní obvod
 - Používá se jako paměťová jednotka
 
-![[image 6.png]]
+![[Pametovy-clen-D.png]]
 
 - D (Data) je vstup který určuje jaká informace se má uchovat
 - C (Clock) je vstup řídícího signálu, který ukazuje zda se má informace uchovat

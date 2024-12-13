@@ -223,15 +223,15 @@ Grafické znčení logických funkcí podle normy IEC
 - S (Set) je vstup který nastavuje hodnotu, kterou si má obvod pamatovat
 - R (Reset) je vstup který resetuje vnitřní paměť obvodu
 - Q je výstup který ukazuje hodnotu kterou si obvod pamatuje
-- $\mathrm {\=Q}$ je negace výstupu Q
+- $\mathrm {\overline Q}$ je negace výstupu Q
 - Pravdivostní tabulka obvodu
 
-|S|R|\||Qn|
-|---|---|---|---|
-|0|0|\||Qn-1|
-|1|0|\||1|
-|0|1|\||0|
-|1|1|\||nelze|
+|S|R|Qn|
+|---|---|---|
+|0|0|Qn-1|
+|1|0|1|
+|0|1|0|
+|1|1|nelze|
 
 - Qn je nynější hodnota výstupu Q
 - Qn-1 je předchozí hodnota výstupu Q
@@ -241,23 +241,23 @@ Grafické znčení logických funkcí podle normy IEC
 - Je to bistabilní synchronní obvod
 - Používá se jako paměťová jednotka
 
-	![[image 6.png]]
+	![[Pametovy-clen-D.png]]
 
 - D (Data) je vstup který určuje jaká informace se má uchovat
 - C (Clock) je vstup řídícího signálu, který ukazuje zda se má informace uchovat
 - Pravdivostní tabulka
 
-|D|C|\||Qn|
-|---|---|---|---|
-|0|0|\||Qn-1|
-|0|1|\||0|
-|1|0|\||Qn-1|
-|1|1|\||1|
+|D|C|Qn|
+|---|---|---|
+|0|0|Qn-1|
+|0|1|0|
+|1|0|Qn-1|
+|1|1|1|
 
 - Qn je nynější hodnota výstupu Q
 - Qn-1 je předchozí hodnota výstupu Q
 
 # Zdroje
 
-> [!important]  
+> [!Zdroje]  
 > https://moodle.osu.cz/mod/resource/view.php?id=501118https://cs.wikipedia.org/wiki/Logická_funkcehttps://community.robotshop.com/tutorials/show/electronics-done-quick-7-logic-gateshttps://en.wikipedia.org/wiki/Logic_gatehttps://moodle.osu.cz/mod/resource/view.php?id=501123https://cs.wikipedia.org/wiki/Logický_obvodhttps://cs.wikipedia.org/wiki/Sekvenční_obvodhttps://www.desmos.com/calculator/sld6mb3ew6
