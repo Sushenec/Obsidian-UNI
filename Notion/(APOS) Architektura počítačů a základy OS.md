@@ -1,5 +1,0 @@
-[[Přednášky]]
-
-[[Cvika]]
-
-[[Otázečky zkouškové]]

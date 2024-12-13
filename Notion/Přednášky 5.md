@@ -1,1 +1,0 @@
-[[Protokoly HTTP, metody]]

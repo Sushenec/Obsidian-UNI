@@ -1,1 +1,0 @@
-[[Příkladky na test]]
