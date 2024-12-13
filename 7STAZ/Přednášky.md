@@ -1,3 +1,5 @@
 ### [[Úvod do statistiky]]
 ### [[Charakteristika polohy a variability]]
 ### [[Vztah dvou veličin, pravděpodobnost, náhodná veličina]]
+### [[Testování statistických hypotéz]]
+### [[Další metody induktivní statistiky]]

@@ -15,12 +15,13 @@ analýza rozptylu, korelace, regrese, test shody
     Většinou bude 0,95, protože  
     $\alpha$ je většinou 0,05
 
-$$\bigg[\overline{X}-t_{n-1}\Big(1-\frac{\alpha}{2}\Big) \cdot \frac{s}{\sqrt{n}} \ \ , \ \overline{X}+t_{n-1}\Big(1-\frac{\alpha}{2}\Big) \cdot \frac{s}{\sqrt{n}} \bigg]$$$$\overline X \rarr průměrná \ hodnota \ měření \\  
-n \rarr počet \ měření \\  
-\alpha \rarr pravděpodobnost \ pro \ chybu \ prvního \ typu \ (většinou \ 0,05) \\  
-s \rarr směrodatná \ odchylka \\ \ \\  
-t_{n-1}\Big(1-\frac{\alpha}{2}\Big) \rarr hodnota \ z \ tabulky \ t-rozdělení. \\ dolní \ index \ určuje \ řádek \ v \ tabulce\\  
-číslo \ v \ závorce \ určuje \ sloupce \ v \ tabulce$$
+$$\displaylines{\bigg[\overline{X}-t_{n-1}\Big(1-\frac{\alpha}{2}\Big) \cdot \frac{s}{\sqrt{n}} \ \ , \ \overline{X}+t_{n-1}\Big(1-\frac{\alpha}{2}\Big) \cdot \frac{s}{\sqrt{n}} \bigg]\\ \ }$$
+$$\displaylines{\overline X \to průměrná \ hodnota \ měření \\  
+n \to počet \ měření \\  
+\alpha \to pravděpodobnost \ pro \ chybu \ prvního \ typu \ (většinou \ 0,05) \\  
+s \to směrodatná \ odchylka \\ \ \\  
+t_{n-1}\Big(1-\frac{\alpha}{2}\Big) \to hodnota \ z \ tabulky \ t-rozdělení. \\ dolní \ index \ určuje \ řádek \ v \ tabulce\\  
+číslo \ v \ závorce \ určuje \ sloupce \ v \ tabulce}$$
 
 ### Vzorec pro odhad rozptylu populace
 
@@ -30,12 +31,13 @@ t_{n-1}\Big(1-\frac{\alpha}{2}\Big) \rarr hodnota \ z \ tabulky \ t-rozdělení.
     Většinou bude 0,95, protože  
     $\alpha$ je většinou 0,05
 
-$$\bigg[\frac{(n-1)\cdot s^2}{X^2_{n-1}(1-\frac{\alpha}{2})} \ \ , \ \frac{(n-1)\cdot s^2}{X^2_{n-1}(\frac{\alpha}{2})}\bigg]$$$$n \rarr počet \ měření \\  
-s^2 \rarr rozptyl \ výběru\\  
-\alpha \rarr pravděpodobnost \ pro \ chybu \ prvního \ typu \ (většinou \ 0,05) \\ \ \\  
-X^2_{n-1}\Big(1-\frac{\alpha}{2}\Big) \ \ a \ \ X^2_{n-1}\Big(\frac{\alpha}{2}\Big) \rarr hodnota \ z \ rozdělení \ Chí-kvadrát \\  
+$$\bigg[\frac{(n-1)\cdot s^2}{X^2_{n-1}(1-\frac{\alpha}{2})} \ \ , \ \frac{(n-1)\cdot s^2}{X^2_{n-1}(\frac{\alpha}{2})}\bigg]$$
+$$\displaylines{\\ \\ n \to počet \ měření \\  
+s^2 \to rozptyl \ výběru\\  
+\alpha \to pravděpodobnost \ pro \ chybu \ prvního \ typu \ (většinou \ 0,05) \\ \ \\  
+X^2_{n-1}\Big(1-\frac{\alpha}{2}\Big) \ \ a \ \ X^2_{n-1}\Big(\frac{\alpha}{2}\Big) \to hodnota \ z \ rozdělení \ Chí-kvadrát \\  
 dolní \ index \ určuje \ řádek \ v \ tabulce\\  
-číslo \ v \ závorce \ určuje \ sloupce \ v \ tabulce$$
+číslo \ v \ závorce \ určuje \ sloupce \ v \ tabulce}$$
 
 ## Test nezávislosti
 
@@ -51,7 +53,7 @@ dolní \ index \ určuje \ řádek \ v \ tabulce\\
 
 ## Korelace (souvislost)
 
-- [[Vztah dvou veličin, pravděpodobnost, náhodná veličina]]
+- toto bylo i v [[Vztah dvou veličin, pravděpodobnost, náhodná veličina]]
 - oboustranná lineární závislost
 - hodnotí lineární vztah dvou spojitých proměnných (bez kauzality)
 - jak se pozná kauzalita (jedna veličina způsobuje druhou. např. hlasitější hudba → ztráta sluchu)
@@ -59,14 +61,14 @@ dolní \ index \ určuje \ řádek \ v \ tabulce\\
     - jednu nastavuji a druhou měřím
     - jedna je fixní, druhá je zatížena náhodou variabilitou
 
-$$\mathbf{\textcolor{salmon}{Toto \ není \ povinné \ se \ učit}} \\ \ \\  
+$$\displaylines{\mathbf{\textcolor{salmon}{Toto \ není \ povinné \ se \ učit}} \\ \ \\  
 covariance(X, Y) = \frac{1}{n-1} \cdot \sum^{n}_{i=1}(x_i - \bar x) \cdot (y_i - \bar y) \\  
-n \rarr počet \ hodnot \\  
-\bar x,\bar y \rarr průměr \ hodnot \ x \ a \ y \\  
-x_i \ , y_i \rarr hodnoty \ na \ pozici \ i \\  
+n \to počet \ hodnot \\  
+\bar x,\bar y \to průměr \ hodnot \ x \ a \ y \\  
+x_i \ , y_i \to hodnoty \ na \ pozici \ i \\  
 \ \\ \ \\  
 correlation(X,Y) = \frac{covariance(X,Y)}{s_x \cdot s_y} \\  
-s_x \ ,s_y \rarr směrodatná \ odchylka \ pro \ x \ a \ y$$
+s_x \ ,s_y \to směrodatná \ odchylka \ pro \ x \ a \ y}$$
 
 ### Testování pravdivosti korelačního koeficientu
 
@@ -90,17 +92,17 @@ s_x \ ,s_y \rarr směrodatná \ odchylka \ pro \ x \ a \ y$$
 
 Tabulka ze skript
 
-![[/image 3.png|image 3.png]]
+![[Vystup-ANOVA.png]]
 
-$$\mathrm{I \rarr počet \ měřených \ skupin}\\  
-\mathrm{n \rarr počet \ všech \ měření}\\  
-\mathrm{F \rarr testovací \ kritérium}$$
+$$\displaylines{\mathrm{I \to počet \ měřených \ skupin}\\  
+\mathrm{n \to počet \ všech \ měření}\\  
+\mathrm{F \to testovací \ kritérium}}$$
 
   
 
 Tabulka z excelu
 
-![[/image 1 2.png|image 1 2.png]]
+![[Vystup-ANOVA-excel.png]]
 
 - V excelu je tabulka stejná jako ve skriptech, jen tam jsou jinak názvy
     - Mezi výběry → mezi skupinami

@@ -11,37 +11,11 @@
             "id": "7a7d292a9c08e7d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion/Přednášky/Testování statistických hypotéz.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Testování statistických hypotéz"
-            },
-            "group": "c9bdbd8897bfc25f"
-          }
-        ]
-      },
-      {
-        "id": "004c9e34bd4e56da",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d5c051bf162ae99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion/Přednášky/Testování statistických hypotéz.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Testování statistických hypotéz"
-            },
-            "group": "c9bdbd8897bfc25f"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -115,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Přednášky/Testování statistických hypotéz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Testování statistických hypotéz"
+              "title": "Backlinks"
             }
           },
           {
@@ -134,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Přednášky/Testování statistických hypotéz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Testování statistických hypotéz"
+              "title": "Outgoing links"
             }
           },
           {
@@ -160,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notion/Přednášky/Testování statistických hypotéz.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Testování statistických hypotéz"
+              "title": "Outline"
             }
           },
           {
@@ -182,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +166,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6d5c051bf162ae99",
+  "active": "7a7d292a9c08e7d8",
   "lastOpenFiles": [
-    "7STAZ/Přednášky/Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
-    "Notion/Přednášky/Testování statistických hypotéz.md",
-    "Notion/Přednášky/06.11. Principy testování statistických hypotéz (opsaná pptx).md",
     "7STAZ/Přednášky.md",
+    "7STAZ/Přednášky/Další metody induktivní statistiky.md",
+    "7STAZ/Přednášky/Testování statistických hypotéz.md",
+    "7STAZ/Přednášky/Vztah dvou veličin, pravděpodobnost, náhodná veličina.md",
+    "Notion/Přednášky/06.11. Principy testování statistických hypotéz (opsaná pptx).md",
     "7STAZ/Přednášky/Charakteristika polohy a variability.md",
     "README.md",
     "7STAZ/Přednášky/Úvod do statistiky.md",
@@ -212,12 +182,11 @@
     "7STAZ/Přednášky",
     "Notion/Přednášky/Přednášky.md",
     "7STAZ",
-    "image 1 2.png",
-    "image 3.png",
+    "Vystup-ANOVA-excel.png",
+    "Vystup-ANOVA.png",
     "Vztah-spojite-spojite.png",
     "Vztah-diskretni-spojite.png",
     "Vztah-diskertni-diskretni.png",
-    "Notion/Přednášky/20.11. Další metody induktivní statistiky/20.11. Další metody induktivní statistiky.md",
     "Notion/Přednášky/20.11. Další metody induktivní statistiky",
     "Notion/Přednášky/23.10.2024 - Vztah dvou veličin, pravděpodobnost, náhodná veličina",
     "Notion/Přednášky",
