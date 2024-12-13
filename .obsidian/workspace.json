@@ -15,7 +15,7 @@
               "state": {
                 "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Logické funkce a logické obvody"
@@ -35,7 +35,7 @@
               "state": {
                 "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Logické funkce a logické obvody"
@@ -195,7 +195,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a6dbc32233190cd0",
+  "active": "10df7985d6d7c0c3",
   "lastOpenFiles": [
     "Notion/Logické funkce a logické obvody.md",
     "7APOS/Otázky/Logické funkce a logické obvody.md",

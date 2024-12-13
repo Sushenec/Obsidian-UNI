@@ -13,6 +13,13 @@ Tabulka ukazuje všechny možné funkce pro 2 vstupní hodnoty (A, B)
 |1|0|\||0|0|1|1|0|0|1|1|0|0|1|1|0|0|1|1|
 |1|1|\||0|1|0|1|0|1|0|1|0|1|0|1|0|1|0|1|
 
+| A   | B   |     |     | |
+| --- | --- | --- | --- | --- |
+|     |     |     |     | |
+|     |     |     |     | |
+|     |     |     |     | |
+|     |     |     |     | |
+
 ## Funkce jedné proměnné
 
 - **Konstanty**
