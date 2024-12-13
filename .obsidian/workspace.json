@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "7APOS/Otázky/Otázky.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Otázky"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "7APOS/Otázky/Otázky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Otázky"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "7APOS/Otázky/Otázky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Otázky"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "7APOS/Otázky/Otázky.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Otázky"
             }
           },
           {
@@ -173,8 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b9a0718111cf6e7",
+  "active": "745f5a92e9854ac2",
   "lastOpenFiles": [
+    "README.md",
+    "7APOS/Otázky/Otázky.md",
     "7APOS/Otázky",
     "Test note.md",
     "7APOS"
