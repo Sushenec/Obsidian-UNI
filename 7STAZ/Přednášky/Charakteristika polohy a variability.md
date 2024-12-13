@@ -25,10 +25,10 @@
 - Je ovlivněno extrémními hodnotami (moc malé nebo moc velké hodnoty)
 - Součet všech hodnot podělených celkovým počtem hodnot
 
-$$\displayl \frac{1}{n}\sum_{i=1}^{n} x_i \\ \ \\ nebo \\ \ \\  
+$$\displaylines{ \frac{1}{n}\sum_{i=1}^{n} x_i \\ \ \\ nebo \\ \ \\  
 \sum_{i=1}^{n} \frac{x_i}{n} \\ \ \\  
 n \ \to \ celkový \ počet \ prvků \\  
-x_i \ \to \ hodnota \ na \ pozici \ i$$
+x_i \ \to \ hodnota \ na \ pozici \ i}$$
 
 ## Uřezaný průměr
 
@@ -47,11 +47,11 @@ x_i \ \to \ hodnota \ na \ pozici \ i$$
 - Například: relativní meziroční nárůst ceny firmy
 - Počítá se jako n-tá odmocnina součinu všech hodnot
 
-$$\sqrt[n]{ \ \prod_{i=1}^{n} x_i} \\ \ \\  
+$$\displaylines{\sqrt[n]{ \ \prod_{i=1}^{n} x_i} \\ \ \\  
 nebo \\ \ \\  
 \bigg( \prod_{i=1}^{n} x_i\bigg)^{\frac{1}{n}} \\ \ \\  
 n \ \to \ celkový \ počet \ prvků \\  
-x_i \ \to \ hodnota \ na \ pozici \ i$$
+x_i \ \to \ hodnota \ na \ pozici \ i}$$
 
 ## Kvantily
 
@@ -61,7 +61,7 @@ x_i \ \to \ hodnota \ na \ pozici \ i$$
     $x_{0,25}$ je první kvartil
 - Nejčastěji používané - Horní (první) kvartil, Medián, Dolní (Třetí) kvartil
 
-$$výpočet \ indexu \ na \ kterém \ se \ nachází \ kvantil \\  
+$$\displaylines{výpočet \ indexu \ na \ kterém \ se \ nachází \ kvantil \\  
 z = n \cdot p \ + (1-p) \\ \ \\  
 z \ \to \ index \ kvantilu \ v \ seřazeném \ seznamu \\  
 n \ \to \ celkový \ počet \ prvků \\  
@@ -70,7 +70,7 @@ Chceme \ zjistil \ na \ jaké \ pozici,\textcolor{firebrick}{ \ v \ seřazených
 Máme \ 13 \ naměřených \ hodnot \ \to n = 13 \\ \ \\  
 z = 13 \ \cdot \ 0,25 \ +(1 - 0,25) \\  
 z = 4 \\ \ \\  
-x_{0,25} \ kvantil \ se \ nachází \ na \ pozici \ 4$$
+x_{0,25} \ kvantil \ se \ nachází \ na \ pozici \ 4}$$
 
 - Pokud vyjde index z jako desetinné číslo, tak bereme celočíselné hodnoty okolo toho čísla a děláme průměr  
     Příklad: když index z vyjde 8,25 → bereme hodnoty na indexech 8 a 9 a uděláme průměr těch dvou hodnot  
@@ -141,29 +141,31 @@ x_{0,25} \ kvantil \ se \ nachází \ na \ pozici \ 4$$
 - Častěji se používá výpočet $s^2$ který se používá, když máme změřený jen nějaký výběr celku (např. změřená výška milionu lidí z 8 miliard)
 - Vždy platí $\sigma^2 < s^2$
 
-$$s^2=\sum_{i=1}^n \frac{(x_i - \overline x)^2}{n-1}  
+$$\displaylines{s^2=\sum_{i=1}^n \frac{(x_i - \overline x)^2}{n-1}  
 \\ \ \\ nebo \\ \ \\  
 s^2=\frac{1}{n-1} \cdot\sum_{i=1}^n (x_i - \overline x)^2  
 \\ \ \\  
 x_i \to hodnota \ na \ pozici \ i \\  
-\=x \to průměr \ hodnot \\  
-n \to počet \ všech \ hodnot$$$$\sigma^2=\sum_{i=1}^n \frac{(x_i - \overline x)^2}{n}  
+\overline x \to průměr \ hodnot \\  
+n \to počet \ všech \ hodnot \\ \ \\ }$$ 
+
+$$\displaylines{\\ \ \\ \sigma^2=\sum_{i=1}^n \frac{(x_i - \overline x)^2}{n}  
 \\ \ \\ nebo \\ \ \\  
-\sigma^2=\frac{1}{n} \cdot\sum_{i=1}^n (x_i - \=x)^2  
+\sigma^2=\frac{1}{n} \cdot\sum_{i=1}^n (x_i - \overline x)^2  
 \\ \ \\  
 x_i \to hodnota \ na \ pozici \ i \\  
-\=x \to průměr \ hodnot \\  
-n \to počet \ všech \ hodnot$$
+\overline x \to průměr \ hodnot \\  
+n \to počet \ všech \ hodnot}$$
 
 ## Směrodatná odchylka (standard deviation) $s$ nebo $\sigma$
 
 - Stejně jako [[Charakteristika polohy a variability]], je to průměrná “vzdálenost” hodnot od průměru, ale na rozdíl od rozptylu je ve stejných jednotkách jako hodnoty
 - Stejně jako u rozptylu, $\sigma$ se používá jen, když máme naměřenou celou populaci a $s$ se používá, když máme nějaký výběr z populace
 
-$$s=\sqrt{s^2} \\  
+$$\displaylines{s=\sqrt{s^2} \\  
 \sigma=\sqrt{\sigma^2} \\ \ \\  
 s^2 \to rozptyl \ pro \ výběr \ z \ populace \\  
-\sigma^2 \to rozptyl \ pro \ celou \ populaci$$
+\sigma^2 \to rozptyl \ pro \ celou \ populaci}$$
 
 ## Přesnost měření
 

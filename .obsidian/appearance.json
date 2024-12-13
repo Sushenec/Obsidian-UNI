@@ -1,5 +1,6 @@
 {
   "interfaceFontFamily": "Arial",
   "textFontFamily": "Arial",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
 }
