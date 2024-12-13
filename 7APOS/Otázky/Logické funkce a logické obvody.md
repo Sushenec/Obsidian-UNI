@@ -108,12 +108,12 @@ Tabulka ukazuje všechny možné funkce pro 2 vstupní hodnoty (A, B)
     $\mathrm {0 + 0 = 0 \ (přenos \ do dalšího\ řádu\ 0)}\\ \mathrm {0 + 1 = 1 \ (přenos \ do dalšího\ řádu\ 0)}\\ \mathrm {1 + 0 = 1 \ (přenos \ do dalšího\ řádu\ 0)}\\ \mathrm {1 + 1 = 0 \ (přenos \ do dalšího\ řádu\ 1)}$
 - Toto chování můžeme vytvořit pomocí funkcí AND a XOR
 
-|A|B|AND|XOR|
-|---|---|---|---|
-|0|0|0|0|
-|0|1|0|1|
-|1|0|0|1|
-|1|1|1|0|
+	|A|B|AND|XOR|
+	|---|---|---|---|
+	|0|0|0|0|
+	|0|1|0|1|
+	|1|0|0|1|
+	|1|1|1|0|
 
 - Funkce AND se chová jako přenos do dalšího řádu
 - Funkce XOR se chová jako součet v daném řádu
@@ -226,12 +226,12 @@ Grafické znčení logických funkcí podle normy IEC
 - $\mathrm {\overline Q}$ je negace výstupu Q
 - Pravdivostní tabulka obvodu
 
-|S|R|Qn|
-|---|---|---|
-|0|0|Qn-1|
-|1|0|1|
-|0|1|0|
-|1|1|nelze|
+	|S|R|$\mathrm{Q_{n}}$|
+	|---|---|---|
+	|0|0|$\mathrm{Q_{n-1}}$|
+	|1|0|1|
+	|0|1|0|
+	|1|1|nelze|
 
 - Qn je nynější hodnota výstupu Q
 - Qn-1 je předchozí hodnota výstupu Q
@@ -247,17 +247,23 @@ Grafické znčení logických funkcí podle normy IEC
 - C (Clock) je vstup řídícího signálu, který ukazuje zda se má informace uchovat
 - Pravdivostní tabulka
 
-|D|C|Qn|
-|---|---|---|
-|0|0|Qn-1|
-|0|1|0|
-|1|0|Qn-1|
-|1|1|1|
+	|D|C|$\mathrm{Q_n}$|
+	|---|---|---|
+	|0|0|$\mathrm{Q_{n-1}}$|
+	|0|1|0|
+	|1|0|$\mathrm{Q_{n-1}}$|
+	|1|1|1|
 
-- Qn je nynější hodnota výstupu Q
-- Qn-1 je předchozí hodnota výstupu Q
+- $\mathrm{Q_{n}}$ je nynější hodnota výstupu Q
+- $\mathrm{Q_{n-1}}$ je předchozí hodnota výstupu Q
 
 # Zdroje
 
-> [!Zdroje]  
-> https://moodle.osu.cz/mod/resource/view.php?id=501118https://cs.wikipedia.org/wiki/Logická_funkcehttps://community.robotshop.com/tutorials/show/electronics-done-quick-7-logic-gateshttps://en.wikipedia.org/wiki/Logic_gatehttps://moodle.osu.cz/mod/resource/view.php?id=501123https://cs.wikipedia.org/wiki/Logický_obvodhttps://cs.wikipedia.org/wiki/Sekvenční_obvodhttps://www.desmos.com/calculator/sld6mb3ew6
+> [!help] Zdroje  
+> https://moodle.osu.cz/mod/resource/view.php?id=501118https://cs.wikipedia.org/wiki/Logická_funkce
+> https://community.robotshop.com/tutorials/show/electronics-done-quick-7-logic-gates
+> https://en.wikipedia.org/wiki/Logic_gate
+> https://moodle.osu.cz/mod/resource/view.php?id=501123
+> https://cs.wikipedia.org/wiki/Logický_obvod
+> https://cs.wikipedia.org/wiki/Sekvenční_obvod
+> https://www.desmos.com/calculator/sld6mb3ew6

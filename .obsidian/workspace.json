@@ -12,6 +12,18 @@
             "id": "10df7985d6d7c0c3",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "7APOS/Otázky/Obrázky/Pametovy-clen-D.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pametovy-clen-D"
+            }
+          },
+          {
+            "id": "adf018f9ae9221ba",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "7APOS/Otázky/Logické funkce a logické obvody.md",
@@ -22,7 +34,8 @@
               "title": "Logické funkce a logické obvody"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d89602d438c89b0c",
@@ -178,12 +191,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,19 +209,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "095ddcc3995f585b",
+  "active": "1b9a0718111cf6e7",
   "lastOpenFiles": [
-    "Notion/Logické funkce a logické obvody.md",
+    "7APOS/Otázky/Obrázky/Binarni-scitacka.png",
+    "7APOS/Otázky/Obrázky/Pametovy-clen-D.png",
     "7APOS/Otázky/Logické funkce a logické obvody.md",
-    "Pametovy-clen-D.png",
-    "Logicky-obvod-RS.png",
-    "Binarni-scitacka.png",
-    "Logicky-komparator.png",
-    "Nabeh-Dobeh-impulsu.png",
-    "Hradla-IEC.png",
-    "Hradla-ANSI.png",
-    "Notion",
+    "7APOS/Otázky/Obrázky",
     "7APOS/Otázky.md",
+    "Notion/Logické funkce a logické obvody.md",
+    "7APOS/Otázky/Obrázky/Logicky-obvod-RS.png",
+    "7APOS/Otázky/Obrázky/Logicky-komparator.png",
+    "7APOS/Otázky/Obrázky/Nabeh-Dobeh-impulsu.png",
+    "7APOS/Otázky/Obrázky/Hradla-IEC.png",
+    "7APOS/Otázky/Obrázky/Hradla-ANSI.png",
+    "Notion",
     "image 14.png",
     "image 15.png",
     "image 16.png",
